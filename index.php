@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Git Remote</h1>    
+    <p>Lorem</p>
 </body>
 </html>
